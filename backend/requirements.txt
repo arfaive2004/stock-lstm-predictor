@@ -1,0 +1,5 @@
+fastapi==0.139.0
+starlette>=1.0.1
+uvicorn==0.51.0
+requests==2.32.3
+numpy==2.4.4
